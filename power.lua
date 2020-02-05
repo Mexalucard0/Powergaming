@@ -1,1 +1,1 @@
-#Powergaming er ikke tiladt på denne server.
++Powergaming er ikke tiladt på denne server.
